@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Pricedown';
+    src: url('./fonts/pricedown.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Pricedown', sans-serif;
+}
+
+h1 {
+    font-family: 'Pricedown', sans-serif;
+    font-size: 60px;
+    color: #f5c542;
+    text-transform: uppercase;
+}
+
+p {
+    color: black;
+}
